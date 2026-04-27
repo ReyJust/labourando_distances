@@ -1,0 +1,699 @@
+Abbotsbury	https://en.wikipedia.org/wiki/Abbotsbury,_New_South_Wales	-33.86972	150.86472
+Abbotsford	https://en.wikipedia.org/wiki/Abbotsford,_New_South_Wales	-33.85215	151.12726
+Acacia Gardens	https://en.wikipedia.org/wiki/Acacia_Gardens	-33.7322	150.917
+Agnes Banks	https://en.wikipedia.org/wiki/Agnes_Banks	-33.615278	150.716111
+Airds	https://en.wikipedia.org/wiki/Airds	-34.0916	150.8249
+Alexandria	https://en.wikipedia.org/wiki/Alexandria,_New_South_Wales	-33.90166	151.20007
+Alfords Point	https://en.wikipedia.org/wiki/Alfords_Point	-33.9848	151.02142
+Allambie Heights	https://en.wikipedia.org/wiki/Allambie_Heights	-33.7783	151.2573
+Allawah	https://en.wikipedia.org/wiki/Allawah	-33.9749	151.1167
+Ambarvale	https://en.wikipedia.org/wiki/Ambarvale	-34.08333	150.80067
+Angus	https://en.wikipedia.org/wiki/Angus,_New_South_Wales	-33.67556	150.83417
+Annandale	https://en.wikipedia.org/wiki/Annandale,_New_South_Wales	-33.88139	151.17083
+Annangrove	https://en.wikipedia.org/wiki/Annangrove	-33.65255	150.94096
+Arcadia	https://en.wikipedia.org/wiki/Arcadia,_New_South_Wales	-33.62429	151.04455
+Arncliffe	https://en.wikipedia.org/wiki/Arncliffe,_New_South_Wales	-33.9333	151.15
+Arndell Park	https://en.wikipedia.org/wiki/Arndell_Park	-33.79	150.876
+Artarmon	https://en.wikipedia.org/wiki/Artarmon	-33.80894	151.18292
+Ashbury	https://en.wikipedia.org/wiki/Ashbury,_New_South_Wales	-33.90306	151.11639
+Ashcroft	https://en.wikipedia.org/wiki/Ashcroft,_New_South_Wales	-33.92165	150.89541
+Ashfield	https://en.wikipedia.org/wiki/Ashfield,_New_South_Wales	-33.8889	151.1249
+Asquith	https://en.wikipedia.org/wiki/Asquith,_New_South_Wales	-33.689	151.105
+Auburn	https://en.wikipedia.org/wiki/Auburn,_New_South_Wales	-33.86563	151.0236
+Austral	https://en.wikipedia.org/wiki/Austral,_New_South_Wales	-33.93111	150.79361
+Avalon Beach	https://en.wikipedia.org/wiki/Avalon_Beach	-33.63358	151.33257
+Badgerys Creek	https://en.wikipedia.org/wiki/Badgerys_Creek	-33.87972	150.75222
+Balgowlah	https://en.wikipedia.org/wiki/Balgowlah	-33.79645	151.25854
+Balgowlah Heights	https://en.wikipedia.org/wiki/Balgowlah_Heights	-33.8064	151.2568
+Balmain	https://en.wikipedia.org/wiki/Balmain,_New_South_Wales	-33.85895	151.17906
+Balmain East	https://en.wikipedia.org/wiki/Balmain_East	-33.85811	151.19017
+Bangor	https://en.wikipedia.org/wiki/Bangor,_New_South_Wales	-34.01908	151.02735
+Banksia	https://en.wikipedia.org/wiki/Banksia,_New_South_Wales	-33.94776	151.14806
+Banksmeadow	https://en.wikipedia.org/wiki/Banksmeadow	-33.95731	151.20699
+Bankstown	https://en.wikipedia.org/wiki/Bankstown	-33.91806	151.035
+Bankstown Aerodrome	https://en.wikipedia.org/wiki/Bankstown_Aerodrome	-33.917	150.983
+Barangaroo	https://en.wikipedia.org/wiki/Barangaroo,_New_South_Wales	-33.8611	151.203
+Barden Ridge	https://en.wikipedia.org/wiki/Barden_Ridge	-34.032	151.01
+Bardia	https://en.wikipedia.org/wiki/Bardia,_New_South_Wales	-33.977	150.862
+Bardwell Park	https://en.wikipedia.org/wiki/Bardwell_Park	-33.93539	151.12541
+Bardwell Valley	https://en.wikipedia.org/wiki/Bardwell_Valley	-33.937	151.133
+Bass Hill	https://en.wikipedia.org/wiki/Bass_Hill	-33.90083	150.995
+Baulkham Hills	https://en.wikipedia.org/wiki/Baulkham_Hills	-33.75944	150.99028
+Bayview	https://en.wikipedia.org/wiki/Bayview,_New_South_Wales	-33.6592	151.29538003490677
+Beacon Hill	https://en.wikipedia.org/wiki/Beacon_Hill,_New_South_Wales	-33.7522	151.256
+Beaconsfield	https://en.wikipedia.org/wiki/Beaconsfield,_New_South_Wales	-33.91096	151.19995
+Beaumont Hills	https://en.wikipedia.org/wiki/Beaumont_Hills	-33.7	150.941
+Beecroft	https://en.wikipedia.org/wiki/Beecroft,_New_South_Wales	-33.7518	151.0633
+Belfield	https://en.wikipedia.org/wiki/Belfield,_New_South_Wales	-33.905	151.08389
+Bella Vista	https://en.wikipedia.org/wiki/Bella_Vista,_New_South_Wales	-33.742	150.955
+Bellevue Hill	https://en.wikipedia.org/wiki/Bellevue_Hill,_New_South_Wales	-33.88101	151.25253
+Belmore	https://en.wikipedia.org/wiki/Belmore,_New_South_Wales	-33.9175	151.08778
+Belrose	https://en.wikipedia.org/wiki/Belrose	-33.73	151.22
+Berala	https://en.wikipedia.org/wiki/Berala	-33.87487	151.03073
+Berkshire Park	https://en.wikipedia.org/wiki/Berkshire_Park	-33.6886	150.78165
+Berowra	https://en.wikipedia.org/wiki/Berowra,_New_South_Wales	-33.62556	151.14667
+Berowra Heights	https://en.wikipedia.org/wiki/Berowra_Heights	-33.61334	151.138
+Berowra Waters	https://en.wikipedia.org/wiki/Berowra_Waters	-33.60086	151.12626
+Berrilee	https://en.wikipedia.org/wiki/Berrilee	-33.61547	151.09811
+Beverley Park	https://en.wikipedia.org/wiki/Beverley_Park,_New_South_Wales	-33.97897	151.1285
+Beverly Hills	https://en.wikipedia.org/wiki/Beverly_Hills,_New_South_Wales	-33.95139	151.07944
+Bexley	https://en.wikipedia.org/wiki/Bexley,_New_South_Wales	-33.95667	151.12611
+Bexley North	https://en.wikipedia.org/wiki/Bexley_North	-33.94167	151.11139
+Bidwill	https://en.wikipedia.org/wiki/Bidwill,_New_South_Wales	-33.73934	150.81266
+Bilgola Beach	https://en.wikipedia.org/wiki/Bilgola_Beach	-33.64565	151.31782
+Bilgola Plateau	https://en.wikipedia.org/wiki/Bilgola_Plateau	-33.633	151.317
+Birchgrove	https://en.wikipedia.org/wiki/Birchgrove,_New_South_Wales	-33.85275	151.18024
+Birrong	https://en.wikipedia.org/wiki/Birrong	-33.89306	151.02306
+Blackett	https://en.wikipedia.org/wiki/Blackett,_New_South_Wales	-33.73934	150.81266
+Blacktown	https://en.wikipedia.org/wiki/Blacktown	-33.77111	150.90639
+Blair Athol	https://en.wikipedia.org/wiki/Blair_Athol,_New_South_Wales	-34.06306	150.8
+Blairmount	https://en.wikipedia.org/wiki/Blairmount	-34.04881	150.78734
+Blakehurst	https://en.wikipedia.org/wiki/Blakehurst	-33.98972	151.10972
+Bligh Park	https://en.wikipedia.org/wiki/Bligh_Park	-33.63833	150.79806
+Bondi	https://en.wikipedia.org/wiki/Bondi,_New_South_Wales	-33.89195	151.26099
+Bondi Beach	https://en.wikipedia.org/wiki/Bondi_Beach	-33.89111	151.27417
+Bondi Junction	https://en.wikipedia.org/wiki/Bondi_Junction	-33.89145	151.2497
+Bonnet Bay	https://en.wikipedia.org/wiki/Bonnet_Bay	-34.01025	151.05238
+Bonnyrigg	https://en.wikipedia.org/wiki/Bonnyrigg,_New_South_Wales	-33.89812	150.89006
+Bonnyrigg Heights	https://en.wikipedia.org/wiki/Bonnyrigg_Heights	-33.89111	150.87194
+Bossley Park	https://en.wikipedia.org/wiki/Bossley_Park	-33.86341	150.88364
+Botany	https://en.wikipedia.org/wiki/Botany,_New_South_Wales	-33.94513	151.19934
+Bow Bowing	https://en.wikipedia.org/wiki/Bow_Bowing	-34.01861	150.83806
+Box Hill	https://en.wikipedia.org/wiki/Box_Hill,_New_South_Wales	-33.65	150.883
+Bradbury	https://en.wikipedia.org/wiki/Bradbury,_New_South_Wales	-34.08734	150.81626
+Bradfield	https://en.wikipedia.org/wiki/Bradfield,_New_South_Wales	-33.91778	150.73
+Breakfast Point	https://en.wikipedia.org/wiki/Breakfast_Point	-33.844	151.1129
+Brighton-Le-Sands	https://en.wikipedia.org/wiki/Brighton-le-Sands,_New_South_Wales	-33.959	151.157
+Bringelly	https://en.wikipedia.org/wiki/Bringelly	-33.92178	150.73234
+Bronte	https://en.wikipedia.org/wiki/Bronte,_New_South_Wales	-33.90532	151.26069
+Brooklyn	https://en.wikipedia.org/wiki/Brooklyn,_New_South_Wales	-33.54833	151.21778
+Brookvale	https://en.wikipedia.org/wiki/Brookvale,_New_South_Wales	-33.7653	151.27041
+Bundeena	https://en.wikipedia.org/wiki/Bundeena	-34.0880611	151.1540611
+Bungarribee	https://en.wikipedia.org/wiki/Bungarribee	-33.7799909	150.8551412
+Burraneer	https://en.wikipedia.org/wiki/Burraneer	-34.06996	151.13664
+Burwood	https://en.wikipedia.org/wiki/Burwood,_New_South_Wales	-33.8772	151.1049
+Burwood Heights	https://en.wikipedia.org/wiki/Burwood_Heights	-33.8902	151.1052
+Busby	https://en.wikipedia.org/wiki/Busby,_New_South_Wales	-33.91413	150.88247
+Cabarita	https://en.wikipedia.org/wiki/Cabarita,_New_South_Wales	-33.84802	151.11485
+Cabramatta	https://en.wikipedia.org/wiki/Cabramatta	-33.89444	150.9375
+Cabramatta West	https://en.wikipedia.org/wiki/Cabramatta_West	-33.89472	150.915
+Caddens	https://en.wikipedia.org/wiki/Caddens	-33.774	150.731
+Cambridge Gardens	https://en.wikipedia.org/wiki/Cambridge_Gardens	-33.738	150.721
+Cambridge Park	https://en.wikipedia.org/wiki/Cambridge_Park,_New_South_Wales	-33.74833	150.73444
+Camden	https://en.wikipedia.org/wiki/Camden,_New_South_Wales	-34.05444	150.69583
+Camden South	https://en.wikipedia.org/wiki/Camden_South	-34.08539	150.70744
+Camellia	https://en.wikipedia.org/wiki/Camellia,_New_South_Wales	-33.82083	151.02583
+Cammeray	https://en.wikipedia.org/wiki/Cammeray	-33.817	151.217
+Campbelltown	https://en.wikipedia.org/wiki/Campbelltown,_New_South_Wales	-34.067	150.817
+Camperdown	https://en.wikipedia.org/wiki/Camperdown,_New_South_Wales	-33.89013	151.17988
+Campsie	https://en.wikipedia.org/wiki/Campsie,_New_South_Wales	-33.91461	151.10183
+Canada Bay	https://en.wikipedia.org/wiki/Canada_Bay,_New_South_Wales	-33.8671	151.1139
+Canley Heights	https://en.wikipedia.org/wiki/Canley_Heights	-33.88502	150.9276
+Canley Vale	https://en.wikipedia.org/wiki/Canley_Vale	-33.88639	150.94611
+Canoelands	https://en.wikipedia.org/wiki/Canoelands	-33.50824	151.06178
+Canterbury	https://en.wikipedia.org/wiki/Canterbury,_New_South_Wales	-33.9126	151.118
+Caringbah	https://en.wikipedia.org/wiki/Caringbah	-34.0452	151.1218
+Caringbah South	https://en.wikipedia.org/wiki/Caringbah_South	-34.0452	151.1218
+Carlingford	https://en.wikipedia.org/wiki/Carlingford,_New_South_Wales	-33.77694	151.04806
+Carlton	https://en.wikipedia.org/wiki/Carlton,_New_South_Wales	-33.97117	151.12439
+Carnes Hill	https://en.wikipedia.org/wiki/Carnes_Hill	-33.935985	150.839318
+Carramar	https://en.wikipedia.org/wiki/Carramar,_New_South_Wales	-33.88605	150.96442
+Carss Park	https://en.wikipedia.org/wiki/Carss_Park	-33.98718	151.11889
+Cartwright	https://en.wikipedia.org/wiki/Cartwright,_New_South_Wales	-33.928	150.8869
+Castle Cove	https://en.wikipedia.org/wiki/Castle_Cove,_New_South_Wales	-33.78464	151.20642
+Castle Hill	https://en.wikipedia.org/wiki/Castle_Hill,_New_South_Wales	-33.72917	151.00389
+Castlecrag	https://en.wikipedia.org/wiki/Castlecrag	-33.80137	151.22007
+Castlereagh	https://en.wikipedia.org/wiki/Castlereagh,_New_South_Wales	-33.67194	150.67833
+Casula	https://en.wikipedia.org/wiki/Casula	-33.95193	150.90538
+Catherine Field	https://en.wikipedia.org/wiki/Catherine_Field	-33.9833	150.76
+Cattai	https://en.wikipedia.org/wiki/Cattai	-33.55611	150.91194
+Cawdor	https://en.wikipedia.org/wiki/Cawdor,_New_South_Wales	-34.083	150.683
+Cecil Hills	https://en.wikipedia.org/wiki/Cecil_Hills	-33.89028	150.85111
+Cecil Park	https://en.wikipedia.org/wiki/Cecil_Park,_New_South_Wales	-33.87297	150.83823
+Centennial Park	https://en.wikipedia.org/wiki/Centennial_Park,_New_South_Wales	-33.90111	151.23028
+Central Business District	https://en.wikipedia.org/wiki/Sydney_central_business_district	-33.8689	151.2083
+Chatswood	https://en.wikipedia.org/wiki/Chatswood,_New_South_Wales	-33.7967	151.1814
+Chatswood West	https://en.wikipedia.org/wiki/Chatswood_West	-33.8021	151.16301
+Cheltenham	https://en.wikipedia.org/wiki/Cheltenham,_New_South_Wales	-33.75839	151.07569
+Cherrybrook	https://en.wikipedia.org/wiki/Cherrybrook,_New_South_Wales	-33.7251	151.04931
+Chester Hill	https://en.wikipedia.org/wiki/Chester_Hill	-33.87833	151.00444
+Chifley	https://en.wikipedia.org/wiki/Chifley,_New_South_Wales	-33.969	151.24
+Chippendale	https://en.wikipedia.org/wiki/Chippendale,_New_South_Wales	-33.8863	151.1999
+Chipping Norton	https://en.wikipedia.org/wiki/Chipping_Norton,_New_South_Wales	-33.911	150.959
+Chiswick	https://en.wikipedia.org/wiki/Chiswick,_New_South_Wales	-33.85192	151.13605
+Chullora	https://en.wikipedia.org/wiki/Chullora	-33.89083	151.0475
+Church Point	https://en.wikipedia.org/wiki/Church_Point,_New_South_Wales	-33.6544	151.2791
+Claremont Meadows	https://en.wikipedia.org/wiki/Claremont_Meadows	-33.779	150.753
+Clarendon	https://en.wikipedia.org/wiki/Clarendon,_New_South_Wales	-33.61167	150.78694
+Clareville	https://en.wikipedia.org/wiki/Clareville,_New_South_Wales	-33.6344	151.3159
+Claymore	https://en.wikipedia.org/wiki/Claymore,_New_South_Wales	-34.0444	150.8096
+Clemton Park	https://en.wikipedia.org/wiki/Clemton_Park	-33.93	151.106
+Clontarf	https://en.wikipedia.org/wiki/Clontarf,_New_South_Wales	-33.80834	151.25342
+Clovelly	https://en.wikipedia.org/wiki/Clovelly,_New_South_Wales	-33.9121	151.2629
+Clyde	https://en.wikipedia.org/wiki/Clyde,_New_South_Wales	-33.83861	151.01722
+Coasters Retreat	https://en.wikipedia.org/wiki/Coasters_Retreat	-33.605	151.299
+Cobbitty	https://en.wikipedia.org/wiki/Cobbitty	-34.017	150.683
+Colebee	https://en.wikipedia.org/wiki/Colebee,_New_South_Wales	-33.72111	150.855
+Collaroy	https://en.wikipedia.org/wiki/Collaroy,_New_South_Wales	-33.73	151.3
+Collaroy Plateau	https://en.wikipedia.org/wiki/Collaroy_Plateau	-33.7276	151.29979881222604
+Colyton	https://en.wikipedia.org/wiki/Colyton,_New_South_Wales	-33.78194	150.79806
+Como	https://en.wikipedia.org/wiki/Como,_New_South_Wales	-34.0045	151.06379
+Concord	https://en.wikipedia.org/wiki/Concord,_New_South_Wales	-33.85985	151.10191
+Concord West	https://en.wikipedia.org/wiki/Concord_West	-33.84416	151.09021
+Condell Park	https://en.wikipedia.org/wiki/Condell_Park	-33.925	151.00778
+Connells Point	https://en.wikipedia.org/wiki/Connells_Point	-33.9825	151.10028
+Constitution Hill	https://en.wikipedia.org/wiki/Constitution_Hill,_New_South_Wales	-33.7945	150.9765
+Coogee	https://en.wikipedia.org/wiki/Coogee,_New_South_Wales	-33.919	151.2555
+Cornwallis	https://en.wikipedia.org/wiki/Cornwallis,_New_South_Wales	-33.59194	150.81194
+Cottage Point	https://en.wikipedia.org/wiki/Cottage_Point	-33.62091	151.20225
+Cowan	https://en.wikipedia.org/wiki/Cowan,_New_South_Wales	-33.59072	151.16956
+Cranebrook	https://en.wikipedia.org/wiki/Cranebrook	-33.72083	150.71306
+Cremorne	https://en.wikipedia.org/wiki/Cremorne,_New_South_Wales	-33.8335	151.2273
+Cremorne Point	https://en.wikipedia.org/wiki/Cremorne_Point	-33.84076	151.22789
+Cromer	https://en.wikipedia.org/wiki/Cromer,_New_South_Wales	-33.74142	151.28227
+Cronulla	https://en.wikipedia.org/wiki/Cronulla	-34.0511	151.1522
+Crows Nest	https://en.wikipedia.org/wiki/Crows_Nest,_New_South_Wales	-33.82613	151.20505
+Croydon	https://en.wikipedia.org/wiki/Croydon,_New_South_Wales	-33.87904	151.11553
+Croydon Park	https://en.wikipedia.org/wiki/Croydon_Park,_New_South_Wales	-33.89667	151.10944
+Cumberland Reach	https://en.wikipedia.org/wiki/Cumberland_Reach	-33.45611	150.89611
+Curl Curl	https://en.wikipedia.org/wiki/Curl_Curl	-33.77213	151.28992
+Currans Hill	https://en.wikipedia.org/wiki/Currans_Hill	-34.04084	150.76853
+Currawong Beach	https://en.wikipedia.org/wiki/Currawong_Beach	-33.596617	151.29901
+Daceyville	https://en.wikipedia.org/wiki/Daceyville	-33.92793	151.22349
+Dangar Island	https://en.wikipedia.org/wiki/Dangar_Island	-33.53861	151.23889
+Darling Point	https://en.wikipedia.org/wiki/Darling_Point	-33.87021	151.23746
+Darlinghurst	https://en.wikipedia.org/wiki/Darlinghurst	-33.8833	151.225
+Darlington	https://en.wikipedia.org/wiki/Darlington,_New_South_Wales	-33.890334	151.19661
+Davidson	https://en.wikipedia.org/wiki/Davidson,_New_South_Wales	-33.7387	151.1942
+Dawes Point	https://en.wikipedia.org/wiki/Dawes_Point	-33.856	151.207
+Dean Park	https://en.wikipedia.org/wiki/Dean_Park,_New_South_Wales	-33.7333	150.85
+Dee Why	https://en.wikipedia.org/wiki/Dee_Why	-33.7544	151.2854
+Denham Court	https://en.wikipedia.org/wiki/Denham_Court	-33.98083	150.83194
+Denistone	https://en.wikipedia.org/wiki/Denistone	-33.80085	151.08648
+Denistone East	https://en.wikipedia.org/wiki/Denistone_East	-33.79885	151.09948
+Denistone West	https://en.wikipedia.org/wiki/Denistone_West	-33.8008	151.0771
+Dharruk	https://en.wikipedia.org/wiki/Dharruk,_New_South_Wales	-33.74807	150.8159
+Dolans Bay	https://en.wikipedia.org/wiki/Dolans_Bay,_New_South_Wales	-34.06259	151.12641
+Dolls Point	https://en.wikipedia.org/wiki/Dolls_Point	-33.99386	151.14301
+Doonside	https://en.wikipedia.org/wiki/Doonside,_New_South_Wales	-33.7694	150.8666
+Double Bay	https://en.wikipedia.org/wiki/Double_Bay	-33.8775	151.2412
+Dover Heights	https://en.wikipedia.org/wiki/Dover_Heights	-33.87185	151.27837
+Drummoyne	https://en.wikipedia.org/wiki/Drummoyne	-33.85352	151.15402
+Duffys Forest	https://en.wikipedia.org/wiki/Duffys_Forest	-33.67525	151.19789
+Dulwich Hill	https://en.wikipedia.org/wiki/Dulwich_Hill	-33.90833	151.14167
+Dundas	https://en.wikipedia.org/wiki/Dundas,_New_South_Wales	-33.80404	151.0351
+Dundas Valley	https://en.wikipedia.org/wiki/Dundas_Valley	-33.79312	151.05999
+Dural	https://en.wikipedia.org/wiki/Dural	-33.68194	151.02889
+Eagle Vale	https://en.wikipedia.org/wiki/Eagle_Vale	-34.03686	150.81144
+Earlwood	https://en.wikipedia.org/wiki/Earlwood	-33.92018	151.12682
+East Gordon	https://en.wikipedia.org/wiki/East_Gordon	-33.74722	151.15806
+East Hills	https://en.wikipedia.org/wiki/East_Hills,_New_South_Wales	-33.96396	150.98974
+East Killara	https://en.wikipedia.org/wiki/East_Killara	-33.75592	151.17973
+East Kurrajong	https://en.wikipedia.org/wiki/East_Kurrajong	-33.51528	150.76778
+East Lindfield	https://en.wikipedia.org/wiki/East_Lindfield	-33.77274	151.18726
+East Ryde	https://en.wikipedia.org/wiki/East_Ryde	-33.81	151.135
+Eastern Creek	https://en.wikipedia.org/wiki/Eastern_Creek,_New_South_Wales	-33.79472	150.86194
+Eastgardens	https://en.wikipedia.org/wiki/Eastgardens,_New_South_Wales	-33.94611	151.225
+Eastlakes	https://en.wikipedia.org/wiki/Eastlakes	-33.93167	151.21028
+Eastwood	https://en.wikipedia.org/wiki/Eastwood,_New_South_Wales	-33.790178	151.082262
+Ebenezer	https://en.wikipedia.org/wiki/Ebenezer,_New_South_Wales	-33.53167	150.86778
+Edensor Park	https://en.wikipedia.org/wiki/Edensor_Park	-33.88095	150.87516
+Edgecliff	https://en.wikipedia.org/wiki/Edgecliff,_New_South_Wales	-33.8833	151.2333
+Edmondson Park	https://en.wikipedia.org/wiki/Edmondson_Park	-33.96371	150.85642
+Elanora Heights	https://en.wikipedia.org/wiki/Elanora_Heights	-33.70102	151.2789
+Elderslie	https://en.wikipedia.org/wiki/Elderslie,_New_South_Wales	-34.05462	150.7125
+Elizabeth Bay	https://en.wikipedia.org/wiki/Elizabeth_Bay,_New_South_Wales	-33.87143	151.22841
+Elizabeth Hills	https://en.wikipedia.org/wiki/Elizabeth_Hills,_New_South_Wales	-33.9	150.847
+Ellis Lane	https://en.wikipedia.org/wiki/Ellis_Lane	-34.034	150.675
+Elvina Bay	https://en.wikipedia.org/wiki/Elvina_Bay	-33.639515	151.277825
+Emerton	https://en.wikipedia.org/wiki/Emerton,_New_South_Wales	-33.75	150.80278
+Emu Heights	https://en.wikipedia.org/wiki/Emu_Heights,_New_South_Wales	-33.73521	150.6503
+Emu Plains	https://en.wikipedia.org/wiki/Emu_Plains	-33.75206	150.65967
+Enfield	https://en.wikipedia.org/wiki/Enfield,_New_South_Wales	-33.89059	151.09246
+Engadine	https://en.wikipedia.org/wiki/Engadine,_New_South_Wales	-34.065722	151.0126639
+Englorie Park	https://en.wikipedia.org/wiki/Englorie_Park	-34.082	150.794
+Enmore	https://en.wikipedia.org/wiki/Enmore,_New_South_Wales	-33.90067	151.16768
+Epping	https://en.wikipedia.org/wiki/Epping,_New_South_Wales	-33.7746	151.0788
+Ermington	https://en.wikipedia.org/wiki/Ermington,_New_South_Wales	-33.81145	151.06178
+Erskine Park	https://en.wikipedia.org/wiki/Erskine_Park	-33.81323	150.80143
+Erskineville	https://en.wikipedia.org/wiki/Erskineville	-33.90476	151.18479
+Eschol Park	https://en.wikipedia.org/wiki/Eschol_Park	-34.03028	150.80944
+Eveleigh	https://en.wikipedia.org/wiki/Eveleigh	-33.895	151.191
+Fairfield	https://en.wikipedia.org/wiki/Fairfield,_New_South_Wales	-33.87056	150.95528
+Fairfield East	https://en.wikipedia.org/wiki/Fairfield_East	-33.87177	150.97346
+Fairfield Heights	https://en.wikipedia.org/wiki/Fairfield_Heights	-33.86848	150.94239
+Fairfield West	https://en.wikipedia.org/wiki/Fairfield_West	-33.87112	150.92322
+Fairlight	https://en.wikipedia.org/wiki/Fairlight,_New_South_Wales	-33.796	151.277
+Fiddletown	https://en.wikipedia.org/wiki/Fiddletown,_New_South_Wales	-33.60259	151.04984
+Five Dock	https://en.wikipedia.org/wiki/Five_Dock	-33.86512	151.12856
+Flemington	https://en.wikipedia.org/wiki/Flemington,_New_South_Wales	-33.86801	151.07088
+Forest Glen	https://en.wikipedia.org/wiki/Forest_Glen,_New_South_Wales	-33.55056	151.01972
+Forest Lodge	https://en.wikipedia.org/wiki/Forest_Lodge,_New_South_Wales	-33.88396	151.1815
+Forestville	https://en.wikipedia.org/wiki/Forestville,_New_South_Wales	-33.7613	151.2113
+Freemans Reach	https://en.wikipedia.org/wiki/Freemans_Reach	-33.56139	150.79778
+Frenchs Forest	https://en.wikipedia.org/wiki/Frenchs_Forest	-33.749	151.2331
+Freshwater	https://en.wikipedia.org/wiki/Freshwater,_New_South_Wales	-33.7749	151.28783
+Gables	https://en.wikipedia.org/wiki/Gables,_New_South_Wales	-33.63	150.90556
+Galston	https://en.wikipedia.org/wiki/Galston,_New_South_Wales	-33.65	151.043
+Georges Hall	https://en.wikipedia.org/wiki/Georges_Hall	-33.91217	150.98557
+Gilead	https://en.wikipedia.org/wiki/Gilead,_New_South_Wales	-34.11767	150.78
+Girraween	https://en.wikipedia.org/wiki/Girraween,_New_South_Wales	-33.80128	150.94305
+Gladesville	https://en.wikipedia.org/wiki/Gladesville	-33.8333	151.1167
+Glebe	https://en.wikipedia.org/wiki/Glebe,_New_South_Wales	-33.87978	151.18541
+Gledswood Hills	https://en.wikipedia.org/wiki/Gledswood_Hills	-34.01167	150.78028
+Glen Alpine	https://en.wikipedia.org/wiki/Glen_Alpine,_New_South_Wales	-34.09	150.785
+Glendenning	https://en.wikipedia.org/wiki/Glendenning,_New_South_Wales	-33.749	150.851
+Glenfield	https://en.wikipedia.org/wiki/Glenfield,_New_South_Wales	-33.965	150.893
+Glenhaven	https://en.wikipedia.org/wiki/Glenhaven,_New_South_Wales	-33.70556	151.00333
+Glenmore Park	https://en.wikipedia.org/wiki/Glenmore_Park,_New_South_Wales	-33.7932	150.6878
+Glenorie	https://en.wikipedia.org/wiki/Glenorie	-33.60222	151.0025
+Glenwood	https://en.wikipedia.org/wiki/Glenwood,_New_South_Wales	-33.734	150.934
+Glossodia	https://en.wikipedia.org/wiki/Glossodia,_New_South_Wales	-33.53432	150.78231
+Gordon	https://en.wikipedia.org/wiki/Gordon,_New_South_Wales	-33.75732	151.14916
+Grantham Farm	https://en.wikipedia.org/wiki/Grantham_Farm	-33.66	150.86667
+Granville	https://en.wikipedia.org/wiki/Granville,_New_South_Wales	-33.8404	151.0079
+Grasmere	https://en.wikipedia.org/wiki/Grasmere,_New_South_Wales	-34.057	150.667
+Grays Point	https://en.wikipedia.org/wiki/Grays_Point,_New_South_Wales	-34.05508	151.07492
+Great Mackerel Beach	https://en.wikipedia.org/wiki/Great_Mackerel_Beach	-33.59167	151.30083
+Green Valley	https://en.wikipedia.org/wiki/Green_Valley,_New_South_Wales	-33.90596	150.86681
+Greenacre	https://en.wikipedia.org/wiki/Greenacre	-33.90917	151.05333
+Greendale	https://en.wikipedia.org/wiki/Greendale,_New_South_Wales	-33.92	150.67
+Greenfield Park	https://en.wikipedia.org/wiki/Greenfield_Park,_New_South_Wales	-33.87676	150.88819
+Greenhills Beach	https://en.wikipedia.org/wiki/Greenhills_Beach,_New_South_Wales	-34.034689	151.1646
+Greenwich	https://en.wikipedia.org/wiki/Greenwich,_New_South_Wales	-33.83302	151.18362
+Green Square	https://en.wikipedia.org/wiki/Green_Square,_New_South_Wales	-33.90611	151.20306
+Gregory Hills	https://en.wikipedia.org/wiki/Gregory_Hills	-33.99167	150.76667
+Greystanes	https://en.wikipedia.org/wiki/Greystanes	-33.823244	150.9436333
+Grose Vale	https://en.wikipedia.org/wiki/Grose_Vale	-33.58389	150.67389
+Grose Wold	https://en.wikipedia.org/wiki/Grose_Wold	-33.59861	150.68472
+Guildford	https://en.wikipedia.org/wiki/Guildford,_New_South_Wales	-33.85472	150.98417
+Guildford West	https://en.wikipedia.org/wiki/Guildford_West	-33.850656	150.96308
+Gymea	https://en.wikipedia.org/wiki/Gymea,_New_South_Wales	-34.0333	151.08556
+Gymea Bay	https://en.wikipedia.org/wiki/Gymea_Bay,_New_South_Wales	-34.04972	151.08639
+Haberfield	https://en.wikipedia.org/wiki/Haberfield,_New_South_Wales	-33.8833	151.1416
+Hammondville	https://en.wikipedia.org/wiki/Hammondville,_New_South_Wales	-33.9508	150.9575
+Harrington Park	https://en.wikipedia.org/wiki/Harrington_Park,_New_South_Wales	-34.02769	150.73081
+Harris Park	https://en.wikipedia.org/wiki/Harris_Park	-33.82481	151.00521
+Hassall Grove	https://en.wikipedia.org/wiki/Hassall_Grove	-33.7333	150.8333
+Haymarket	https://en.wikipedia.org/wiki/Haymarket,_New_South_Wales	-33.88092	151.20294
+Heathcote	https://en.wikipedia.org/wiki/Heathcote,_New_South_Wales	-34.08506	151.00808
+Hebersham	https://en.wikipedia.org/wiki/Hebersham	-33.7527	150.9833
+Heckenberg	https://en.wikipedia.org/wiki/Heckenberg	-33.91068	150.88887
+Henley	https://en.wikipedia.org/wiki/Henley,_New_South_Wales	-33.84252	151.13475
+Hillsdale	https://en.wikipedia.org/wiki/Hillsdale,_New_South_Wales	-33.95493	151.22875
+Hinchinbrook	https://en.wikipedia.org/wiki/Hinchinbrook,_New_South_Wales	-33.915	150.868
+Hobartville	https://en.wikipedia.org/wiki/Hobartville,_New_South_Wales	-33.60458	150.74298
+Holroyd	https://en.wikipedia.org/wiki/Holroyd,_New_South_Wales	-33.831	150.997
+Holsworthy	https://en.wikipedia.org/wiki/Holsworthy,_New_South_Wales	-33.96261	150.95455
+Homebush	https://en.wikipedia.org/wiki/Homebush	-33.86722	151.08472
+Homebush West	https://en.wikipedia.org/wiki/Homebush_West	-33.86801	151.07088
+Horningsea Park	https://en.wikipedia.org/wiki/Horningsea_Park,_New_South_Wales	-33.94389	150.84389
+Hornsby	https://en.wikipedia.org/wiki/Hornsby,_New_South_Wales	-33.7049	151.09901
+Hornsby Heights	https://en.wikipedia.org/wiki/Hornsby_Heights	-33.6722	151.0988
+Horsley Park	https://en.wikipedia.org/wiki/Horsley_Park	-33.85832	150.85537
+Hoxton Park	https://en.wikipedia.org/wiki/Hoxton_Park	-33.93389	150.85278
+Hunters Hill	https://en.wikipedia.org/wiki/Hunters_Hill	-33.8337	151.14366
+Huntingwood	https://en.wikipedia.org/wiki/Huntingwood	-33.799	150.885
+Huntleys Cove	https://en.wikipedia.org/wiki/Huntleys_Cove	-33.839	151.141
+Huntleys Point	https://en.wikipedia.org/wiki/Huntleys_Point	-33.839	151.147
+Hurlstone Park	https://en.wikipedia.org/wiki/Hurlstone_Park	-33.91058	151.12919
+Hurstville	https://en.wikipedia.org/wiki/Hurstville	-33.96811	151.10408
+Hurstville Grove	https://en.wikipedia.org/wiki/Hurstville_Grove	-33.97972	151.09306
+Illawong	https://en.wikipedia.org/wiki/Illawong	-34.00057	151.03587
+Ingleburn	https://en.wikipedia.org/wiki/Ingleburn,_New_South_Wales	-33.98556	150.85361
+Ingleside	https://en.wikipedia.org/wiki/Ingleside,_New_South_Wales	-33.6823	151.26315
+Jamisontown	https://en.wikipedia.org/wiki/Jamisontown	-33.76829	150.67238
+Jannali	https://en.wikipedia.org/wiki/Jannali	-34.01695	151.06522
+Jordan Springs	https://en.wikipedia.org/wiki/Jordan_Springs,_New_South_Wales	-33.72389	150.72806
+Kangaroo Point	https://en.wikipedia.org/wiki/Kangaroo_Point,_New_South_Wales	-34.002	151.096
+Kareela	https://en.wikipedia.org/wiki/Kareela	-34.01503	151.08046
+Kearns	https://en.wikipedia.org/wiki/Kearns,_New_South_Wales	-34.02361	150.80639
+Kellyville	https://en.wikipedia.org/wiki/Kellyville,_New_South_Wales	-33.71056	150.95111
+Kellyville Ridge	https://en.wikipedia.org/wiki/Kellyville_Ridge	-33.703	150.919
+Kemps Creek	https://en.wikipedia.org/wiki/Kemps_Creek	-33.87464	150.79868
+Kensington	https://en.wikipedia.org/wiki/Kensington,_New_South_Wales	-33.9075	151.22556
+Kenthurst	https://en.wikipedia.org/wiki/Kenthurst	-33.66917	151.00167
+Kentlyn	https://en.wikipedia.org/wiki/Kentlyn	-34.05194	150.87806
+Killara	https://en.wikipedia.org/wiki/Killara	-33.76864	151.16347
+Killarney Heights	https://en.wikipedia.org/wiki/Killarney_Heights	-33.7742	151.2155
+Kings Langley	https://en.wikipedia.org/wiki/Kings_Langley,_New_South_Wales	-33.75	150.92
+Kings Park	https://en.wikipedia.org/wiki/Kings_Park,_New_South_Wales	-33.737	150.901
+Kingsford	https://en.wikipedia.org/wiki/Kingsford,_New_South_Wales	-33.92	151.23
+Kingsgrove	https://en.wikipedia.org/wiki/Kingsgrove	-33.93917	151.10139
+Kingswood	https://en.wikipedia.org/wiki/Kingswood,_New_South_Wales	-33.759	150.72
+Kingswood Park	https://en.wikipedia.org/wiki/Kingswood_Park	-33.75111	150.69417
+Kirkham	https://en.wikipedia.org/wiki/Kirkham,_New_South_Wales	-34.039	150.709
+Kirrawee	https://en.wikipedia.org/wiki/Kirrawee	-34.03472	151.07111
+Kirribilli	https://en.wikipedia.org/wiki/Kirribilli	-33.85045	151.21477
+Kogarah	https://en.wikipedia.org/wiki/Kogarah	-33.9674	151.13648
+Kogarah Bay	https://en.wikipedia.org/wiki/Kogarah_Bay	-33.98338	151.12166
+Ku-ring-gai Chase	https://en.wikipedia.org/wiki/Ku-ring-gai_Chase_National_Park		
+Kurmond	https://en.wikipedia.org/wiki/Kurmond	-33.55111	150.69
+Kurnell	https://en.wikipedia.org/wiki/Kurnell	-34.01159	151.20686
+Kurraba Point	https://en.wikipedia.org/wiki/Kurraba_Point	-33.843	151.223
+Kurrajong	https://en.wikipedia.org/wiki/Kurrajong,_New_South_Wales	-33.55	150.667
+Kurrajong Hills	https://en.wikipedia.org/wiki/Kurrajong_Hills	-33.533	150.65
+Kyeemagh	https://en.wikipedia.org/wiki/Kyeemagh	-33.94829	151.15711
+Kyle Bay	https://en.wikipedia.org/wiki/Kyle_Bay	-33.98917	151.095
+La Perouse	https://en.wikipedia.org/wiki/La_Perouse,_New_South_Wales	-33.99306	151.24333
+Lakemba	https://en.wikipedia.org/wiki/Lakemba,_New_South_Wales	-33.93167	151.08528
+Lalor Park	https://en.wikipedia.org/wiki/Lalor_Park	-33.76667	150.92778
+Lane Cove	https://en.wikipedia.org/wiki/Lane_Cove	-33.81688	151.16945
+Lane Cove North	https://en.wikipedia.org/wiki/Lane_Cove_North	-33.807	151.164
+Lane Cove West	https://en.wikipedia.org/wiki/Lane_Cove_West	-33.812	151.15
+Lansdowne	https://en.wikipedia.org/wiki/Lansdowne,_New_South_Wales	-33.89499	150.97418
+Lansvale	https://en.wikipedia.org/wiki/Lansvale	-33.89456	150.95437
+Laughtondale	https://en.wikipedia.org/wiki/Laughtondale	-33.43	151.02889
+Lavender Bay	https://en.wikipedia.org/wiki/Lavender_Bay	-33.84428	151.20388
+Leets Vale	https://en.wikipedia.org/wiki/Leets_Vale	-33.43194	150.95111
+Leichhardt	https://en.wikipedia.org/wiki/Leichhardt,_New_South_Wales	-33.88472	151.15722
+Len Waters Estate	https://en.wikipedia.org/wiki/Len_Waters_Estate	-33.914	150.853
+Leonay	https://en.wikipedia.org/wiki/Leonay	-33.765	150.64556
+Leppington	https://en.wikipedia.org/wiki/Leppington	-33.965	150.80111
+Lethbridge Park	https://en.wikipedia.org/wiki/Lethbridge_Park	-33.73333	150.79444
+Leumeah	https://en.wikipedia.org/wiki/Leumeah	-34.05556	150.83333
+Lewisham	https://en.wikipedia.org/wiki/Lewisham,_New_South_Wales	-33.8949	151.144415
+Liberty Grove	https://en.wikipedia.org/wiki/Liberty_Grove,_New_South_Wales	-33.84137921887579	151.08409669119473
+Lidcombe	https://en.wikipedia.org/wiki/Lidcombe	-33.86462	151.04563
+Lilli Pilli	https://en.wikipedia.org/wiki/Lilli_Pilli,_New_South_Wales	-34.06833	151.11583
+Lilyfield	https://en.wikipedia.org/wiki/Lilyfield	-33.87306	151.16611
+Lindfield	https://en.wikipedia.org/wiki/Lindfield,_New_South_Wales	-33.77674	151.17119
+Linley Point	https://en.wikipedia.org/wiki/Linley_Point	-33.8307	151.1456
+Little Bay	https://en.wikipedia.org/wiki/Little_Bay	-33.98056	151.24306
+Liverpool	https://en.wikipedia.org/wiki/Liverpool,_New_South_Wales	-33.92092	150.92314
+Llandilo	https://en.wikipedia.org/wiki/Llandilo	-33.7061	150.7453
+Loftus	https://en.wikipedia.org/wiki/Loftus,_New_South_Wales	-34.0465	151.0471
+Londonderry	https://en.wikipedia.org/wiki/Londonderry,_New_South_Wales	-33.64861	150.73556
+Long Point	https://en.wikipedia.org/wiki/Long_Point,_New_South_Wales	-34.01194	150.89694
+Longueville	https://en.wikipedia.org/wiki/Longueville,_New_South_Wales	-33.83309	151.16494
+Lovett Bay	https://en.wikipedia.org/wiki/Lovett_Bay	-33.635	151.279
+Lower Portland	https://en.wikipedia.org/wiki/Lower_Portland	-33.44194	150.87889
+Lucas Heights	https://en.wikipedia.org/wiki/Lucas_Heights,_New_South_Wales	-34.049	150.975
+Luddenham	https://en.wikipedia.org/wiki/Luddenham,_New_South_Wales	-33.88083	150.71472
+Lugarno	https://en.wikipedia.org/wiki/Lugarno	-33.98469	151.04352
+Lurnea	https://en.wikipedia.org/wiki/Lurnea	-33.93492	150.89557
+Macarthur	https://en.wikipedia.org/wiki/Macarthur,_New_South_Wales	-34.11	150.7
+Macquarie Fields	https://en.wikipedia.org/wiki/Macquarie_Fields	-33.99444	150.8875
+Macquarie Links	https://en.wikipedia.org/wiki/Macquarie_Links	-33.98194	150.87389
+Macquarie Park	https://en.wikipedia.org/wiki/Macquarie_Park	-33.7772	151.12412
+Maianbar	https://en.wikipedia.org/wiki/Maianbar	-34.08128	151.12914
+Malabar	https://en.wikipedia.org/wiki/Malabar,_New_South_Wales	-33.96556	151.24861
+Manly	https://en.wikipedia.org/wiki/Manly,_New_South_Wales	-33.7962	151.2827
+Manly Vale	https://en.wikipedia.org/wiki/Manly_Vale	-33.783	151.2622
+Maraylya	https://en.wikipedia.org/wiki/Maraylya	-33.59778	150.91611
+Marayong	https://en.wikipedia.org/wiki/Marayong	-33.75	150.9083
+Maroota	https://en.wikipedia.org/wiki/Maroota	-33.46028	150.99472
+Maroubra	https://en.wikipedia.org/wiki/Maroubra,_New_South_Wales	-33.94944	151.24361
+Marrickville	https://en.wikipedia.org/wiki/Marrickville	-33.9051	151.1551
+Marsden Park	https://en.wikipedia.org/wiki/Marsden_Park	-33.68917	150.80278
+Marsfield	https://en.wikipedia.org/wiki/Marsfield	-33.77963	151.10253
+Mascot	https://en.wikipedia.org/wiki/Mascot,_New_South_Wales	-33.92917	151.18806
+Matraville	https://en.wikipedia.org/wiki/Matraville	-33.96139	151.23139
+Mays Hill	https://en.wikipedia.org/wiki/Mays_Hill	-33.82167	150.99222
+McCarrs Creek	https://en.wikipedia.org/wiki/McCarrs_Creek	-33.64333	151.27667
+McGraths Hill	https://en.wikipedia.org/wiki/McGraths_Hill	-33.61944	150.84306
+McMahons Point	https://en.wikipedia.org/wiki/McMahons_Point	-33.84524	151.20433
+Meadowbank	https://en.wikipedia.org/wiki/Meadowbank,_New_South_Wales	-33.81692	151.08333
+Melonba	https://en.wikipedia.org/wiki/Melonba	-33.69778	150.79806
+Melrose Park	https://en.wikipedia.org/wiki/Melrose_Park,_New_South_Wales	-33.81972	151.07722
+Menai	https://en.wikipedia.org/wiki/Menai,_New_South_Wales	-34.0118	151.0089
+Menangle Park	https://en.wikipedia.org/wiki/Menangle_Park	-34.100390363159505	150.75721267932252
+Merrylands	https://en.wikipedia.org/wiki/Merrylands	-33.8375	150.99167
+Merrylands West	https://en.wikipedia.org/wiki/Merrylands_West	-33.8375	150.96167
+Middle Cove	https://en.wikipedia.org/wiki/Middle_Cove,_New_South_Wales	-33.7938	151.2086
+Middle Dural	https://en.wikipedia.org/wiki/Middle_Dural	-33.65556	151.02083
+Middleton Grange	https://en.wikipedia.org/wiki/Middleton_Grange	-33.915	150.84194
+Miller	https://en.wikipedia.org/wiki/Miller,_New_South_Wales	-33.9268	150.8724
+Millers Point	https://en.wikipedia.org/wiki/Millers_Point	-33.86085	151.20281
+Milperra	https://en.wikipedia.org/wiki/Milperra	-33.94282	150.98037
+Milsons Passage	https://en.wikipedia.org/wiki/Milsons_Passage	-33.517	151.176
+Milsons Point	https://en.wikipedia.org/wiki/Milsons_Point	-33.84765	151.21201
+Minchinbury	https://en.wikipedia.org/wiki/Minchinbury,_New_South_Wales	-33.783	150.833
+Minto	https://en.wikipedia.org/wiki/Minto,_New_South_Wales	-34.02639	150.85083
+Minto Heights	https://en.wikipedia.org/wiki/Minto_Heights	-34.03111	150.87417
+Miranda	https://en.wikipedia.org/wiki/Miranda,_New_South_Wales	-34.03562	151.10276
+Mona Vale	https://en.wikipedia.org/wiki/Mona_Vale,_New_South_Wales	-33.67596	151.30653
+Monterey	https://en.wikipedia.org/wiki/Monterey,_New_South_Wales	-33.9738	151.1479
+Moore Park	https://en.wikipedia.org/wiki/Moore_Park,_New_South_Wales	-33.89667	151.22
+Moorebank	https://en.wikipedia.org/wiki/Moorebank	-33.933	150.95015
+Morning Bay	https://en.wikipedia.org/wiki/Morning_Bay	-33.627	151.287
+Mortdale	https://en.wikipedia.org/wiki/Mortdale	-33.96944	151.06972
+Mortlake	https://en.wikipedia.org/wiki/Mortlake,_New_South_Wales	-33.8437	151.10556
+Mosman	https://en.wikipedia.org/wiki/Mosman	-33.829075	151.24409
+Mount Annan	https://en.wikipedia.org/wiki/Mount_Annan	-34.065	150.76
+Mount Colah	https://en.wikipedia.org/wiki/Mount_Colah	-33.66382	151.11341
+Mount Druitt	https://en.wikipedia.org/wiki/Mount_Druitt	-33.77222	150.81944
+Mount Kuring-Gai	https://en.wikipedia.org/wiki/Mount_Kuring-Gai	-33.64543	151.13115
+Mount Lewis	https://en.wikipedia.org/wiki/Mount_Lewis,_New_South_Wales	-33.915	151.05111
+Mount Pritchard	https://en.wikipedia.org/wiki/Mount_Pritchard	-33.89806	150.90111
+Mount Vernon	https://en.wikipedia.org/wiki/Mount_Vernon,_New_South_Wales	-33.85694	150.81
+Mulgoa	https://en.wikipedia.org/wiki/Mulgoa	-33.8461	150.6525
+Mulgrave	https://en.wikipedia.org/wiki/Mulgrave,_New_South_Wales	-33.615	150.828
+Narellan	https://en.wikipedia.org/wiki/Narellan	-34.04511	150.73706
+Narellan Vale	https://en.wikipedia.org/wiki/Narellan_Vale	-34.0504	150.7483
+Naremburn	https://en.wikipedia.org/wiki/Naremburn	-33.81925	151.19971
+Narrabeen	https://en.wikipedia.org/wiki/Narrabeen	-33.7231	151.2952
+Narraweena	https://en.wikipedia.org/wiki/Narraweena	-33.74861	151.26778
+Narwee	https://en.wikipedia.org/wiki/Narwee	-33.9475	151.07083
+Nelson	https://en.wikipedia.org/wiki/Nelson,_New_South_Wales	-33.64583	150.92194
+Neutral Bay	https://en.wikipedia.org/wiki/Neutral_Bay	-33.8345	151.2184
+Newington	https://en.wikipedia.org/wiki/Newington,_New_South_Wales	-33.839	151.055
+Newport	https://en.wikipedia.org/wiki/Newport,_New_South_Wales	-33.6564	151.3137
+Newtown	https://en.wikipedia.org/wiki/Newtown,_New_South_Wales	-33.89	151.18
+Nirimba Fields	https://en.wikipedia.org/wiki/Nirimba_Fields	-33.72278	150.87583
+Normanhurst	https://en.wikipedia.org/wiki/Normanhurst	-33.72521	151.1008
+North Balgowlah	https://en.wikipedia.org/wiki/North_Balgowlah	-33.78731410187674	151.25176933373385
+North Bondi	https://en.wikipedia.org/wiki/North_Bondi	-33.88778	151.28083
+North Curl Curl	https://en.wikipedia.org/wiki/North_Curl_Curl	-33.7645	151.2973
+North Epping	https://en.wikipedia.org/wiki/North_Epping	-33.7623	151.101
+North Kellyville	https://en.wikipedia.org/wiki/North_Kellyville	-33.68528	150.9525
+North Manly	https://en.wikipedia.org/wiki/North_Manly	-33.7754	151.2689
+North Narrabeen	https://en.wikipedia.org/wiki/North_Narrabeen	-33.7065	151.2884
+North Parramatta	https://en.wikipedia.org/wiki/North_Parramatta	-33.8032	151.0055
+North Richmond	https://en.wikipedia.org/wiki/North_Richmond,_New_South_Wales	-33.58917	150.71111
+North Rocks	https://en.wikipedia.org/wiki/North_Rocks	-33.77611	151.01972
+North Ryde	https://en.wikipedia.org/wiki/North_Ryde	-33.79242	151.11954
+North St Ives	https://en.wikipedia.org/wiki/North_St_Ives	-33.715	151.168
+North St Marys	https://en.wikipedia.org/wiki/North_St_Marys	-33.74889	150.78194
+North Strathfield	https://en.wikipedia.org/wiki/North_Strathfield	-33.86028	151.08861
+North Sydney	https://en.wikipedia.org/wiki/North_Sydney,_New_South_Wales	-33.83965	151.20541
+North Turramurra	https://en.wikipedia.org/wiki/North_Turramurra	-33.72615	151.14712
+North Wahroonga	https://en.wikipedia.org/wiki/North_Wahroonga	-33.701	151.126
+North Willoughby	https://en.wikipedia.org/wiki/North_Willoughby	-33.795	151.204
+Northbridge	https://en.wikipedia.org/wiki/Northbridge,_New_South_Wales	-33.81325	151.21717
+Northmead	https://en.wikipedia.org/wiki/Northmead	-33.78921222409897	150.99480540083124
+Northwood	https://en.wikipedia.org/wiki/Northwood,_New_South_Wales	-33.82813	151.17619
+Norwest	https://en.wikipedia.org/wiki/Norwest,_New_South_Wales	-33.73306	150.96361
+Oakhurst	https://en.wikipedia.org/wiki/Oakhurst,_New_South_Wales	-33.73194	150.835
+Oakville	https://en.wikipedia.org/wiki/Oakville,_New_South_Wales	-33.62222	150.86694
+Oatlands	https://en.wikipedia.org/wiki/Oatlands,_New_South_Wales	-33.794	151.032
+Oatley	https://en.wikipedia.org/wiki/Oatley,_New_South_Wales	-33.98111	151.07472
+Old Guildford	https://en.wikipedia.org/wiki/Old_Guildford	-33.86583	150.98333
+Old Toongabbie	https://en.wikipedia.org/wiki/Old_Toongabbie	-33.78694	150.96611
+Oran Park	https://en.wikipedia.org/wiki/Oran_Park,_New_South_Wales	-34.003	150.743
+Orchard Hills	https://en.wikipedia.org/wiki/Orchard_Hills,_New_South_Wales	-33.78139	150.73639
+Oxford Falls	https://en.wikipedia.org/wiki/Oxford_Falls	-33.7352	151.2469
+Oxley Park	https://en.wikipedia.org/wiki/Oxley_Park	-33.77083	150.79333
+Oyster Bay	https://en.wikipedia.org/wiki/Oyster_Bay,_New_South_Wales	-34.00754	151.07514
+Paddington	https://en.wikipedia.org/wiki/Paddington,_New_South_Wales	-33.88477	151.22621
+Padstow	https://en.wikipedia.org/wiki/Padstow,_New_South_Wales	-33.95583	151.0325
+Padstow Heights	https://en.wikipedia.org/wiki/Padstow_Heights	-33.97306	151.035
+Pagewood	https://en.wikipedia.org/wiki/Pagewood	-33.94222	151.22278
+Palm Beach	https://en.wikipedia.org/wiki/Palm_Beach,_New_South_Wales	-33.6	151.32278
+Panania	https://en.wikipedia.org/wiki/Panania	-33.95806	151.00194
+Parklea	https://en.wikipedia.org/wiki/Parklea	-33.7291	150.919
+Parramatta	https://en.wikipedia.org/wiki/Parramatta	-33.817	151.0
+Peakhurst	https://en.wikipedia.org/wiki/Peakhurst	-33.9654	151.0502
+Peakhurst Heights	https://en.wikipedia.org/wiki/Peakhurst_Heights	-33.98167	151.05111
+Pemulwuy	https://en.wikipedia.org/wiki/Pemulwuy,_New_South_Wales	-33.817	150.926
+Pendle Hill	https://en.wikipedia.org/wiki/Pendle_Hill,_New_South_Wales	-33.8075	150.95528
+Pennant Hills	https://en.wikipedia.org/wiki/Pennant_Hills	-33.74236	151.06643
+Penrith	https://en.wikipedia.org/wiki/Penrith,_New_South_Wales	-33.75111	150.69417
+Penshurst	https://en.wikipedia.org/wiki/Penshurst,_New_South_Wales	-33.96556	151.095
+Petersham	https://en.wikipedia.org/wiki/Petersham,_New_South_Wales	-33.8961	151.1543
+Phillip Bay	https://en.wikipedia.org/wiki/Phillip_Bay	-33.98083	151.23389
+Picnic Point	https://en.wikipedia.org/wiki/Picnic_Point,_New_South_Wales	-33.96917	151.00611
+Pitt Town	https://en.wikipedia.org/wiki/Pitt_Town	-33.581608966739104	150.87034197600926
+Pitt Town Bottoms	https://en.wikipedia.org/wiki/Pitt_Town_Bottoms	-33.59972	150.85139
+Pleasure Point	https://en.wikipedia.org/wiki/Pleasure_Point,_New_South_Wales	-33.96776	150.978
+Plumpton	https://en.wikipedia.org/wiki/Plumpton,_New_South_Wales	-33.75306	150.83917
+Point Piper	https://en.wikipedia.org/wiki/Point_Piper	-33.87056	151.25083
+Port Botany	https://en.wikipedia.org/wiki/Port_Botany,_New_South_Wales	-33.976	151.218
+Port Hacking	https://en.wikipedia.org/wiki/Port_Hacking,_New_South_Wales	-34.06889	151.12278
+Potts Hill	https://en.wikipedia.org/wiki/Potts_Hill	-33.89	151.03
+Potts Point	https://en.wikipedia.org/wiki/Potts_Point	-33.86806	151.22417
+Prairiewood	https://en.wikipedia.org/wiki/Prairiewood	-33.86111	150.90472
+Prestons	https://en.wikipedia.org/wiki/Prestons,_New_South_Wales	-33.94286	150.87116
+Prospect	https://en.wikipedia.org/wiki/Prospect,_New_South_Wales	-33.79917	150.92556
+Punchbowl	https://en.wikipedia.org/wiki/Punchbowl,_New_South_Wales	-33.933	151.05
+Putney	https://en.wikipedia.org/wiki/Putney,_New_South_Wales	-33.82694	151.10611
+Pymble	https://en.wikipedia.org/wiki/Pymble	-33.76313	151.13481
+Pyrmont	https://en.wikipedia.org/wiki/Pyrmont,_New_South_Wales	-33.87497	151.19635
+Quakers Hill	https://en.wikipedia.org/wiki/Quakers_Hill	-33.73611	150.87778
+Queens Park	https://en.wikipedia.org/wiki/Queens_Park,_New_South_Wales	-33.90111	151.24806
+Queenscliff	https://en.wikipedia.org/wiki/Queenscliff,_New_South_Wales	-33.7825	151.28472
+Raby	https://en.wikipedia.org/wiki/Raby,_New_South_Wales	-34.025	150.81444
+Ramsgate	https://en.wikipedia.org/wiki/Ramsgate,_New_South_Wales	-33.98194	151.14007
+Ramsgate Beach	https://en.wikipedia.org/wiki/Ramsgate_Beach	-33.982	151.148
+Randwick	https://en.wikipedia.org/wiki/Randwick	-33.91643	151.23653
+Redfern	https://en.wikipedia.org/wiki/Redfern,_New_South_Wales	-33.89334	151.20461
+Regents Park	https://en.wikipedia.org/wiki/Regents_Park,_New_South_Wales	-33.88583	151.02833
+Regentville	https://en.wikipedia.org/wiki/Regentville	-33.7783	150.66
+Revesby	https://en.wikipedia.org/wiki/Revesby,_New_South_Wales	-33.95	151.01028
+Revesby Heights	https://en.wikipedia.org/wiki/Revesby_Heights	-33.96806	151.01778
+Rhodes	https://en.wikipedia.org/wiki/Rhodes,_New_South_Wales	-33.82821	151.08569
+Richards	https://en.wikipedia.org/wiki/Richards,_New_South_Wales	-33.66889	150.85444
+Richmond	https://en.wikipedia.org/wiki/Richmond,_New_South_Wales	-33.6	150.75
+Richmond Lowlands	https://en.wikipedia.org/wiki/Richmond_Lowlands	-33.56528	150.75972
+Riverstone	https://en.wikipedia.org/wiki/Riverstone,_New_South_Wales	-33.68194	150.85944
+Riverview	https://en.wikipedia.org/wiki/Riverview,_New_South_Wales	-33.82466	151.1622
+Riverwood	https://en.wikipedia.org/wiki/Riverwood,_New_South_Wales	-33.95	151.05
+Rockdale	https://en.wikipedia.org/wiki/Rockdale,_New_South_Wales	-33.95329	151.13996
+Rodd Point	https://en.wikipedia.org/wiki/Rodd_Point	-33.86607	151.14366
+Rookwood	https://en.wikipedia.org/wiki/Rookwood,_New_South_Wales	-33.87276	151.05562
+Rooty Hill	https://en.wikipedia.org/wiki/Rooty_Hill,_New_South_Wales	-33.77167	150.84389
+Ropes Crossing	https://en.wikipedia.org/wiki/Ropes_Crossing	-33.73306	150.79111
+Rose Bay	https://en.wikipedia.org/wiki/Rose_Bay,_New_South_Wales	-33.87521	151.25557
+Rosebery	https://en.wikipedia.org/wiki/Rosebery,_New_South_Wales	-33.92361	151.20528
+Rosehill	https://en.wikipedia.org/wiki/Rosehill,_New_South_Wales	-33.827	151.03
+Roselands	https://en.wikipedia.org/wiki/Roselands	-33.93167	151.08528
+Rosemeadow	https://en.wikipedia.org/wiki/Rosemeadow	-34.107	150.793
+Roseville	https://en.wikipedia.org/wiki/Roseville,_New_South_Wales	-33.78903	151.17119
+Roseville Chase	https://en.wikipedia.org/wiki/Roseville_Chase	-33.7818	151.1961
+Rossmore	https://en.wikipedia.org/wiki/Rossmore,_New_South_Wales	-33.9224	150.76964
+Rouse Hill	https://en.wikipedia.org/wiki/Rouse_Hill	-33.68162	150.91552
+Royal National Park	https://en.wikipedia.org/wiki/Royal_National_Park	-34.118308315902134	151.06378565443237
+Rozelle	https://en.wikipedia.org/wiki/Rozelle	-33.865	151.16722
+Ruse	https://en.wikipedia.org/wiki/Ruse,_New_South_Wales	-34.071	150.8423
+Rushcutters Bay	https://en.wikipedia.org/wiki/Rushcutters_Bay	-33.8774	151.2282
+Russell Lea	https://en.wikipedia.org/wiki/Russell_Lea	-33.858	151.141
+Rydalmere	https://en.wikipedia.org/wiki/Rydalmere	-33.81111	151.03565
+Ryde	https://en.wikipedia.org/wiki/Ryde,_New_South_Wales	-33.81528	151.10111
+Sackville	https://en.wikipedia.org/wiki/Sackville,_New_South_Wales	-33.483	150.9
+Sackville North	https://en.wikipedia.org/wiki/Sackville_North	-33.48167	150.88472
+Sadleir	https://en.wikipedia.org/wiki/Sadleir,_New_South_Wales	-33.9125	150.88028
+Sandringham	https://en.wikipedia.org/wiki/Sandringham,_New_South_Wales	-33.9985	151.1363
+Sandy Point	https://en.wikipedia.org/wiki/Sandy_Point,_New_South_Wales	-33.976	150.9926
+Sans Souci	https://en.wikipedia.org/wiki/Sans_Souci,_New_South_Wales	-33.98898	151.1393
+Scheyville	https://en.wikipedia.org/wiki/Scheyville	-33.61111	150.88278
+Schofields	https://en.wikipedia.org/wiki/Schofields,_New_South_Wales	-33.7	150.883
+Scotland Island	https://en.wikipedia.org/wiki/Scotland_Island	-33.64	151.29111
+Seaforth	https://en.wikipedia.org/wiki/Seaforth,_New_South_Wales	-33.79246784050411	151.24232682784097
+Sefton	https://en.wikipedia.org/wiki/Sefton,_New_South_Wales	-33.88833	151.00722
+Seven Hills	https://en.wikipedia.org/wiki/Seven_Hills,_New_South_Wales	-33.7777	150.9416
+Shalvey	https://en.wikipedia.org/wiki/Shalvey	-33.7194	150.8
+Shanes Park	https://en.wikipedia.org/wiki/Shanes_Park	-33.71111	150.77222
+Silverwater	https://en.wikipedia.org/wiki/Silverwater	-33.83	151.051
+Singletons Mill	https://en.wikipedia.org/wiki/Singletons_Mill	-33.465	151.068
+Smeaton Grange	https://en.wikipedia.org/wiki/Smeaton_Grange	-34.035	150.75694
+Smithfield	https://en.wikipedia.org/wiki/Smithfield,_New_South_Wales	-33.85278	150.93194
+South Coogee	https://en.wikipedia.org/wiki/South_Coogee	-33.933	151.259
+South Granville	https://en.wikipedia.org/wiki/South_Granville,_New_South_Wales	-33.85444	151.00417
+South Hurstville	https://en.wikipedia.org/wiki/South_Hurstville	-33.98	151.10361
+South Maroota	https://en.wikipedia.org/wiki/South_Maroota	-33.52417	150.94861
+South Penrith	https://en.wikipedia.org/wiki/South_Penrith	-33.77194	150.70333
+South Turramurra	https://en.wikipedia.org/wiki/South_Turramurra	-33.7546	151.113
+South Wentworthville	https://en.wikipedia.org/wiki/South_Wentworthville	-33.82333	150.96528
+South Windsor	https://en.wikipedia.org/wiki/South_Windsor,_New_South_Wales	-33.62528	150.80444
+Spring Farm	https://en.wikipedia.org/wiki/Spring_Farm	-34.07194	150.71806
+St Andrews	https://en.wikipedia.org/wiki/St_Andrews,_New_South_Wales	-34.02472	150.83056
+St Clair	https://en.wikipedia.org/wiki/St_Clair,_New_South_Wales	-33.79861	150.7825
+St Helens Park	https://en.wikipedia.org/wiki/St_Helens_Park	-34.1105	150.8079
+St Ives	https://en.wikipedia.org/wiki/St_Ives,_New_South_Wales	-33.72136	151.16844
+St Ives Chase	https://en.wikipedia.org/wiki/St_Ives_Chase,_New_South_Wales	-33.711	151.1595
+St James	https://en.wikipedia.org/wiki/St_James,_New_South_Wales	-33.8694	151.2106
+St Johns Park	https://en.wikipedia.org/wiki/St_Johns_Park,_New_South_Wales	-33.88472	150.90694
+St Leonards	https://en.wikipedia.org/wiki/St_Leonards,_New_South_Wales	-33.82613	151.19041
+St Marys	https://en.wikipedia.org/wiki/St_Marys,_New_South_Wales	-33.7607	150.7774
+St Peters	https://en.wikipedia.org/wiki/St_Peters,_New_South_Wales	-33.90951	151.17723
+Stanhope Gardens	https://en.wikipedia.org/wiki/Stanhope_Gardens	-33.723	150.926
+Stanmore	https://en.wikipedia.org/wiki/Stanmore,_New_South_Wales	-33.8942	151.1644
+Strathfield	https://en.wikipedia.org/wiki/Strathfield	-33.88081	151.08308
+Strathfield South	https://en.wikipedia.org/wiki/Strathfield_South	-33.8894	151.0831
+Summer Hill	https://en.wikipedia.org/wiki/Summer_Hill,_New_South_Wales	-33.8915	151.1382
+Surry Hills	https://en.wikipedia.org/wiki/Surry_Hills	-33.88611	151.21111
+Sutherland	https://en.wikipedia.org/wiki/Sutherland,_New_South_Wales	-34.03314	151.0583
+Sydenham	https://en.wikipedia.org/wiki/Sydenham,_New_South_Wales	-33.9178	151.1678
+Sydney Olympic Park	https://en.wikipedia.org/wiki/Sydney_Olympic_Park,_New_South_Wales	-33.8475	151.065
+Sylvania	https://en.wikipedia.org/wiki/Sylvania,_New_South_Wales	-34.01253	151.10604
+Sylvania Waters	https://en.wikipedia.org/wiki/Sylvania_Waters	-34.02306	151.11167
+Sydney	https://en.wikipedia.org/wiki/Sydney	-33.86778	151.21
+Tallawong	https://en.wikipedia.org/wiki/Tallawong	-33.69111	150.89833
+Tamarama	https://en.wikipedia.org/wiki/Tamarama	-33.89806	151.26806
+Taren Point	https://en.wikipedia.org/wiki/Taren_Point	-34.01917	151.12028
+Telopea	https://en.wikipedia.org/wiki/Telopea,_New_South_Wales	-33.79417	151.03802
+Tempe	https://en.wikipedia.org/wiki/Tempe,_New_South_Wales	-33.92528	151.15833
+Tennyson	https://en.wikipedia.org/wiki/Tennyson,_New_South_Wales	-33.53694	150.7375
+Tennyson Point	https://en.wikipedia.org/wiki/Tennyson_Point	-33.832	151.117
+Terrey Hills	https://en.wikipedia.org/wiki/Terrey_Hills	-33.68889	151.22083
+The Ponds	https://en.wikipedia.org/wiki/The_Ponds,_New_South_Wales	-33.703	150.909
+The Rocks	https://en.wikipedia.org/wiki/The_Rocks,_New_South_Wales	-33.85985	151.20901
+The Slopes	https://en.wikipedia.org/wiki/The_Slopes,_New_South_Wales	-32.53194	150.70806
+Thornleigh	https://en.wikipedia.org/wiki/Thornleigh	-33.71822	151.08698
+Toongabbie	https://en.wikipedia.org/wiki/Toongabbie,_New_South_Wales	-33.78611	150.95639
+Tregear	https://en.wikipedia.org/wiki/Tregear,_New_South_Wales	-33.75	150.79444
+Turramurra	https://en.wikipedia.org/wiki/Turramurra	-33.7338	151.1301
+Turrella	https://en.wikipedia.org/wiki/Turrella	-33.93297	151.14079
+Ultimo	https://en.wikipedia.org/wiki/Ultimo,_New_South_Wales	-33.88222	151.19694
+Varroville	https://en.wikipedia.org/wiki/Varroville	-34.0075	150.815
+Vaucluse	https://en.wikipedia.org/wiki/Vaucluse,_New_South_Wales	-33.85583	151.27111
+Villawood	https://en.wikipedia.org/wiki/Villawood	-33.88611	150.97889
+Vineyard	https://en.wikipedia.org/wiki/Vineyard,_New_South_Wales	-33.65028	150.85611
+Voyager Point	https://en.wikipedia.org/wiki/Voyager_Point	-33.959	150.979
+Wahroonga	https://en.wikipedia.org/wiki/Wahroonga	-33.7183	151.1187
+Waitara	https://en.wikipedia.org/wiki/Waitara,_New_South_Wales	-33.71217	151.10064
+Wakeley	https://en.wikipedia.org/wiki/Wakeley,_New_South_Wales	-33.87611	150.91222
+Wallacia	https://en.wikipedia.org/wiki/Wallacia,_New_South_Wales	-33.865	150.64
+Wareemba	https://en.wikipedia.org/wiki/Wareemba	-33.861	151.132
+Warrawee	https://en.wikipedia.org/wiki/Warrawee	-33.725	151.12338
+Warriewood	https://en.wikipedia.org/wiki/Warriewood	-33.69378	151.30464
+Warwick Farm	https://en.wikipedia.org/wiki/Warwick_Farm	-33.91395	150.93739
+Waterfall	https://en.wikipedia.org/wiki/Waterfall,_New_South_Wales	-34.133	151.0
+Waterloo	https://en.wikipedia.org/wiki/Waterloo,_New_South_Wales	-33.90028	151.20778
+Watsons Bay	https://en.wikipedia.org/wiki/Watsons_Bay	-33.84275	151.28125
+Wattle Grove	https://en.wikipedia.org/wiki/Wattle_Grove,_New_South_Wales	-33.957	150.941
+Waverley	https://en.wikipedia.org/wiki/Waverley,_New_South_Wales	-33.89778	151.25028
+Waverton	https://en.wikipedia.org/wiki/Waverton,_New_South_Wales	-33.839	151.197
+Wedderburn	https://en.wikipedia.org/wiki/Wedderburn,_New_South_Wales	-34.12611	150.81778
+Wentworth Point	https://en.wikipedia.org/wiki/Wentworth_Point	-33.82639	151.07806
+Wentworthville	https://en.wikipedia.org/wiki/Wentworthville	-33.80694	150.9725
+Werrington	https://en.wikipedia.org/wiki/Werrington,_New_South_Wales	-33.75944	150.74694
+Werrington County	https://en.wikipedia.org/wiki/Werrington_County	-33.765	150.75111
+Werrington Downs	https://en.wikipedia.org/wiki/Werrington_Downs	-33.73917	150.72722
+West Hoxton	https://en.wikipedia.org/wiki/West_Hoxton	-33.93556	150.83083
+West Killara	https://en.wikipedia.org/wiki/West_Killara	-33.77936	151.14462
+West Pennant Hills	https://en.wikipedia.org/wiki/West_Pennant_Hills	-33.748	151.034
+West Pymble	https://en.wikipedia.org/wiki/West_Pymble	-33.765	151.12606
+West Ryde	https://en.wikipedia.org/wiki/West_Ryde	-33.80818	151.08352
+Westleigh	https://en.wikipedia.org/wiki/Westleigh,_New_South_Wales	-33.72299	151.07064
+Westmead	https://en.wikipedia.org/wiki/Westmead,_New_South_Wales	-33.80833	150.98194
+Wetherill Park	https://en.wikipedia.org/wiki/Wetherill_Park	-33.84972	150.91111
+Whalan	https://en.wikipedia.org/wiki/Whalan,_New_South_Wales	-33.75833	150.80833
+Whale Beach	https://en.wikipedia.org/wiki/Whale_Beach	-33.61269	151.32736
+Wheeler Heights	https://en.wikipedia.org/wiki/Wheeler_Heights	-33.7315	151.28016
+Wilberforce	https://en.wikipedia.org/wiki/Wilberforce,_New_South_Wales	-33.55944	150.84056
+Wiley Park	https://en.wikipedia.org/wiki/Wiley_Park	-33.92583	151.06333
+Willmot	https://en.wikipedia.org/wiki/Willmot,_New_South_Wales	-33.72528	150.7925
+Willoughby	https://en.wikipedia.org/wiki/Willoughby,_New_South_Wales	-33.80739	151.20131
+Willoughby East	https://en.wikipedia.org/wiki/Willoughby_East	-33.799	151.206
+Windsor	https://en.wikipedia.org/wiki/Windsor,_New_South_Wales	-33.61361	150.81167
+Windsor Downs	https://en.wikipedia.org/wiki/Windsor_Downs	-33.65694	150.81
+Winston Hills	https://en.wikipedia.org/wiki/Winston_Hills	-33.77747	150.97788
+Wisemans Ferry	https://en.wikipedia.org/wiki/Wisemans_Ferry,_New_South_Wales	-33.38194	150.985
+Wolli Creek	https://en.wikipedia.org/wiki/Wolli_Creek,_New_South_Wales	-33.930173	151.154279
+Wollstonecraft	https://en.wikipedia.org/wiki/Wollstonecraft,_New_South_Wales	-33.83356	151.19128
+Woodbine	https://en.wikipedia.org/wiki/Woodbine,_New_South_Wales	-34.04806	150.82472
+Woodcroft	https://en.wikipedia.org/wiki/Woodcroft,_New_South_Wales	-33.759	150.878
+Woodpark	https://en.wikipedia.org/wiki/Woodpark,_New_South_Wales	-33.84194	150.9625
+Woollahra	https://en.wikipedia.org/wiki/Woollahra	-33.883	151.25
+Woolloomooloo	https://en.wikipedia.org/wiki/Woolloomooloo	-33.8704	151.2223
+Woolooware	https://en.wikipedia.org/wiki/Woolooware	-34.04778	151.14111
+Woolwich	https://en.wikipedia.org/wiki/Woolwich,_New_South_Wales	-33.84	151.171
+Woronora	https://en.wikipedia.org/wiki/Woronora	-34.026	151.044
+Woronora Heights	https://en.wikipedia.org/wiki/Woronora_Heights	-34.034	151.026
+Yagoona	https://en.wikipedia.org/wiki/Yagoona	-33.9078	151.0251
+Yarramundi	https://en.wikipedia.org/wiki/Yarramundi,_New_South_Wales	-33.6222	150.6709
+Yarrawarrah	https://en.wikipedia.org/wiki/Yarrawarrah	-34.0552	151.0321
+Yennora	https://en.wikipedia.org/wiki/Yennora	-33.86278	150.96611
+Yowie Bay	https://en.wikipedia.org/wiki/Yowie_Bay	-34.04972	151.10333
+Zetland	https://en.wikipedia.org/wiki/Zetland,_New_South_Wales	-33.908	151.2105

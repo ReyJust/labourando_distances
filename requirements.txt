@@ -4,3 +4,4 @@ lxml
 ipykernel
 flask
 gunicorn
+python-dotenv

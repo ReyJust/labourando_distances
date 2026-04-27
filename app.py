@@ -53,6 +53,6 @@ def api_check():
         return jsonify({'within': False, 'distance_km': None, 'method': None, 'error': str(e)}), 500
 
 
-if __name__ == '__main__':
-    app.config['TEMPLATES_AUTO_RELOAD'] = True
-    app.run(host='0.0.0.0', port=5000, debug=True, use_reloader=True)
+# if __name__ == '__main__':
+#     app.config['TEMPLATES_AUTO_RELOAD'] = True
+#     app.run(host='0.0.0.0', port=5000, debug=True, use_reloader=True)

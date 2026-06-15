@@ -1,4 +1,7 @@
-Scrape Sydney suburbs
+Very simple website that check distance between suburbs in Sydney. Useful to choose your casual gig around the city on a day 2 day basis.
+More helpful as part of a automated environment checking directly against the job offers.
+
+Can check distance between 2 suburbs and driving distance by leveraging the [Ooenroute service API](https://openrouteservice.org/).
 
 Usage
 
